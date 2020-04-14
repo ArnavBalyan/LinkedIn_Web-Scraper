@@ -1,0 +1,19 @@
+Remove this line and enter your linkedin registered email in its place
+Remove this line and enter the linkedin password in its place
+
+After making the changes, save this file and place the 
+jupyter notebook, config.txt and chromedriver.exe files in the same directory
+
+Things to take care of:
+---Will need google chrome (because we are using chrome driver).
+---Make sure there are no unnecessary pop ups associated to your profile when 
+   the linkedin page opens up.
+
+Usage:
+
+1) You may either enter a hashtag or multiple keywords
+2) Enter the data when prompted
+
+Result:
+After execution, you will have the scrapped data printed and the same will 
+get saved in a csv (in the same directory) file having the current timestamp in its name.
