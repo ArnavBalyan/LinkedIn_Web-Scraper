@@ -10,4 +10,5 @@ This web scraping software may directly access the World Wide Web using the Hype
 <br>
 Please see config.txt for full details and usage instructions.
 
-By ArnavBalyan
+ - Feel free to contribute to this project.
+ _ Enjoy opensource!
