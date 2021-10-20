@@ -7,6 +7,7 @@ This web scraping software may directly access the World Wide Web using the Hype
 <br>
 
 ![alt](https://github.com/aniketgupta1902/LinkedIn_Web-Scraper/blob/master/linkedin%20webscrapper.PNG)
+![alt](https://wizardsourcer.com/wp-content/uploads/2021/03/Scraping-LinkedIn-.png)
 <br>
 Please see config.txt for full details and usage instructions.
 
